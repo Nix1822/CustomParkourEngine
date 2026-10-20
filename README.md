@@ -1,3 +1,4 @@
+Rah jrbto fservr dyali 4dam 100/100
 # CustomParkourEngine
 
 Parkour timer plugin for Paper 1.21.4 (Java 21). Courses are saved in `config.yml`, personal bests in SQLite.
