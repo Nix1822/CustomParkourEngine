@@ -39,4 +39,5 @@ Checkpoints are numbered from 1, in order.
 3. Create `eula.txt` with `eula=true`, then start it with `java -Xmx2G -jar paper-1.21.4-*.jar --nogui` (Java 21).
 4. Stop the server, copy `target/CustomParkourEngine.jar` into `plugins/`, and start it again.
 5. Join `localhost`, op yourself (`op <name>` in the console) and follow the setup commands above.
-6. Edit `plugins/CustomParkourEngine/config.yml` and restart (or reload the plugin) to test config changes.
+6. Edit `plugins/CustomParkourEngine/config.yml` and restart (or reload the plugin) to test config changes
+7. Ra jrbto fservr dyali w4dam 100/100
