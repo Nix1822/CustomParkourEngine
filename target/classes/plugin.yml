@@ -1,0 +1,13 @@
+name: CustomParkourEngine
+version: 1.0.0
+main: dev.parkour.Main
+description: Parkour timer and course system for Maghreb SMP
+api-version: "1.21"
+author: Nix
+commands:
+  parkour:
+    description: Parkour commands
+    aliases: [pk]
+permissions:
+  parkour.admin:
+    default: op
