@@ -1,9 +1,0 @@
-# anti-cheat limits
-anticheat:
-  max-horizontal-per-move: 0.95   # max horizontal blocks per move event
-  max-vertical-per-move: 0.85     # max upward blocks per move event
-  min-finish-time-ms: 3000        # finishing faster than this is rejected
-  max-velocity: 1.5               # bigger knockback/launch cancels the run
-  block-commands: false           # block commands while running
-  allowed-commands: [parkour, pk]
-void-y: -5                        # falling below this Y sends you back to your last checkpoint
